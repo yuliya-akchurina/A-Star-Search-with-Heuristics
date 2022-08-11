@@ -1,8 +1,7 @@
-# Assignment 1
 # CISC6525 AI 
 # Yuliya Akchurina 
 
-""" Assignment #1  Out 2/18  Due back 3/4
+""" 
 Your assignment is to study the effects of four different heuristics on A* search of the Romania roadmap.
 The heuristics are as follows, where (x1,y1 and (x2,y2) are the location so of the two cities
 Heuristic #1: Straight Line Distance [ (x2-x1)^2 + (y2-y1)^2)^1/2
@@ -27,14 +26,13 @@ remember: Your pythonfile MUSt run on Apporto using only what packages are alrea
 # ASTAR implementation
 # for N&R Romania roadmap example
 #
-# c 2016 dml
 #
 import math
 import matplotlib.pyplot as plt  #for plotting barchart
 #
-#Part of the romania roadmapp
+# Part of the romania roadmapp
 #
-#coordinates of the cities on the map as
+# coordinates of the cities on the map as
 # **approximated** on paper and scaled
 #
          
